@@ -6,7 +6,7 @@
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
 /* Custom CSS */
-.portfolio-item {
+.row {
     padding-left: 10px !important;
     padding-right: 10px !important;
 }
