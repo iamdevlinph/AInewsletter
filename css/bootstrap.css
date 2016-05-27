@@ -6,6 +6,10 @@
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
 /* Custom CSS */
+.row {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+}
 .block-header{
   background: #B31820;
   color: white;
