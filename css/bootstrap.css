@@ -6,6 +6,12 @@
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
 /* Custom CSS */
+.p-spacing {
+	line-height: 1.5;
+}
+.list-spacing {
+	line-height: 1.7;
+}
 .row {
 		padding-left: 10px !important;
 		padding-right: 10px !important;
